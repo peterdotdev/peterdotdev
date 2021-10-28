@@ -1,5 +1,3 @@
----
-
 <h1 align="center"> Hola, soy Pedro, un gusto! 👋 :computer: </h1>
 
 Soy una persona creativa que le gusta colaborar y aportar a su entorno, prefiero el trabajo colectivo al individual.
