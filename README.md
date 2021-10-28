@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src='./Technologies.jpeg' />
 
-<!--
-**peterdotdev/peterdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h1 align="center"> Hola, soy Pedro, un gusto! 👋 :computer: </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy una persona creativa que le gusta colaborar y aportar a su entorno, prefiero el trabajo colectivo al individual.
+
+Actualmente me encuentro cursando la carrera de Certified Tech Developer en Digital House y compartiendo mi tiempo con las comunidades de Coderhood y FrontEndCafe, donde he conectado con profesionales en el área del desarrollo que me han sabido transmitir toda su pasión.
+
+A través de mis estudios, he conseguido un sólido entendimiento de conceptos base en el campo del desarrollo y he dedicado mucho de mi tiempo libre a aplicar estos conceptos a escenarios del mundo real.
+
+---
