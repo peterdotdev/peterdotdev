@@ -9,6 +9,6 @@ A través de mis estudios, he conseguido un sólido entendimiento de conceptos b
 ---
 
 <h1 align="center"> Stack Actual </h1>
-<div style="align:center"><img src='./Technologies.jfif' /></div>
+<p align="center"><img src='./Technologies.jfif' /></p>
 
 ---
